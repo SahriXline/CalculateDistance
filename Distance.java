@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class Main {
+public class Distance {
 
     public static void main(String args[]) {
 
